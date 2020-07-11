@@ -1,16 +1,12 @@
 ### Hi I'm Mads 👋
-20 y.o. dane that loves to design and develop websites in my spare time. 
+I am 20 y.o. dane that loves to design and develop websites in my spare time. Currently studying multimedia design at UCL in Odense, Denmark. In my spare time I am working on improving my JavaScript skills. 
 
-I am currently studying multimedia design at UCL in Odense, Denmark.
 
-#### Links
-[Portfolio](https://mhouge.dk/)
-
-[Behance](https://www.behance.net/MadsHougesen)
-
-[LinkedIn](https://www.linkedin.com/in/mads-hougesen-78733016a/)
-
-[Twitter](https://twitter.com/Mads_Hougesen)
+### Useful Links
+* [Portfolio](https://mhouge.dk/)
+* [Behance](https://www.behance.net/MadsHougesen)
+* [LinkedIn](https://www.linkedin.com/in/mads-hougesen-78733016a/)
+* [Twitter](https://twitter.com/Mads_Hougesen)
 
 
 
