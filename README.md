@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi I'm Mads 👋
+20 y.o. dane that loves to design and develop websites in my spare time. 
+I am currently studying multimedia design at UCL in Odense, Denmark.
+
+#### Links
+[Portfolio](https://mhouge.dk/)
+[Behance](https://www.behance.net/MadsHougesen)
+[LinkedIn](https://www.linkedin.com/in/mads-hougesen-78733016a/)
+[Twitter](https://twitter.com/Mads_Hougesen)
+
+
 
 <!--
 **Hougesen/Hougesen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
