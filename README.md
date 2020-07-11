@@ -5,8 +5,11 @@ I am currently studying multimedia design at UCL in Odense, Denmark.
 
 #### Links
 [Portfolio](https://mhouge.dk/)
+
 [Behance](https://www.behance.net/MadsHougesen)
+
 [LinkedIn](https://www.linkedin.com/in/mads-hougesen-78733016a/)
+
 [Twitter](https://twitter.com/Mads_Hougesen)
 
 
