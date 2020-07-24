@@ -1,5 +1,5 @@
 ### Hi I'm Mads 👋
-I am 20 y.o. dane that loves to design and develop websites in my spare time. Currently studying multimedia design at UCL in Odense, Denmark. In my spare time I am working on improving my JavaScript skills. 
+I am a 20 y.o. dane that loves to design and develop websites in my spare time. Currently studying multimedia design at UCL in Odense, Denmark. In my spare time I am working on improving my JavaScript skills. 
 
 
 ### Useful Links
