@@ -7,7 +7,7 @@ I am a 20 y.o. dane that loves to design and develop websites in my spare time. 
 * [Behance](https://www.behance.net/MadsHougesen)
 * [LinkedIn](https://www.linkedin.com/in/mads-hougesen-78733016a/)
 * [Twitter](https://twitter.com/Mads_Hougesen)
-* [CodeWars](https://www.codewars.com/users/Hougesen) // [HackerRank](https://www.hackerrank.com/Hougesen) // [LeetCode](https://leetcode.com/hougesen/)
+* [CodeWars](https://www.codewars.com/users/Hougesen) // [LeetCode](https://leetcode.com/hougesen/)
 
 
 <!--
