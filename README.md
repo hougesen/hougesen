@@ -1,6 +1,9 @@
 ### Hi I'm Mads 👋
-Aspiring web developer currently studying multimediadesign @ UCL in Odense, Denmark. 
-Primarily interested in Javascript with a hint of Ruby & PHP - but I am always up for learning new stuff. Lately I have been playing around with Docker. 
+Frontend developer currently studying multimediadesign @ UCL in Odense, Denmark. 
+
+Lover of all things JavaScript - but I am always up for learning new stuff.
+
+Currently working @ [cavea.io](https://cavea.io).
 
 
 ### Useful Links
