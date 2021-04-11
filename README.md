@@ -3,7 +3,10 @@ Frontend developer currently studying multimediadesign @ UCL in Odense, Denmark.
 
 Lover of all things JavaScript - but I am always up for learning new stuff.
 
-Currently working @ [cavea.io](https://cavea.io).
+My current side-project is a fitness tracker called [Strongr](https://stron.gr)
+
+Working @ [cavea.io](https://cavea.io).
+
 
 
 ### Useful Links
@@ -11,7 +14,7 @@ Currently working @ [cavea.io](https://cavea.io).
 * [Behance](https://www.behance.net/MadsHougesen)
 * [LinkedIn](https://www.linkedin.com/in/mads-hougesen-78733016a/)
 * [Twitter](https://twitter.com/Mads_Hougesen)
-* [CodeWars](https://www.codewars.com/users/Hougesen) // [LeetCode](https://leetcode.com/hougesen/)
+<!-- * [CodeWars](https://www.codewars.com/users/Hougesen) // [LeetCode](https://leetcode.com/hougesen/) -->
 
 
 <!--
