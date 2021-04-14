@@ -3,7 +3,7 @@ Frontend developer currently studying multimediadesign @ UCL in Odense, Denmark.
 
 Lover of all things JavaScript - but I am always up for learning new stuff.
 
-My current side-project is a fitness tracker called [Strongr](https://stron.gr)
+My current side-project is a fitness tracker called [Strongr](https://stron.gr). Made in Vue.js/Node.js/MySQL. 
 
 Working @ [cavea.io](https://cavea.io).
 
