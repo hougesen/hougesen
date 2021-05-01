@@ -7,6 +7,7 @@ My current side-project is a fitness tracker called [Strongr](https://stron.gr).
 
 Working @ [cavea.io](https://cavea.io).
 
+Work account: [@MadsCavea](https://github.com/MadsCavea)
 
 
 ### Useful Links
