@@ -2,9 +2,9 @@
 
 I am a frontend/fullstack developer living in Odense, Denmark.
 
-I currently work @ [cavea.io](https://cavea.io). Work account: [@MadsCavea](https://github.com/MadsCavea)
+Currently working @ [cavea.io](https://cavea.io/). Work account: [@MadsCavea](https://github.com/MadsCavea/)
 
-My current side-project is a fitness tracker called [Strongr](https://stron.gr). Made with Nuxt.js, Express & MySQL.
+My current side-project is a fitness tracker called [Strongr](https://stron.gr/). Made with Nuxt.js, Express & MySQL.
 
 ### Technologies
 
