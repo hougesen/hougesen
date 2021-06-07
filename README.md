@@ -13,23 +13,22 @@ Lover of all things JavaScript - but I am always learning new stuff.
 #### Currently working with:
 
 ![Vue.js](./icons/vue.png)
-![Nuxt.js](./icons/nuxt.png)
 ![JavaScript](./icons/javascript.png)
 ![Node.js](./icons/node.png)
 ![MongoDB](./icons/mongodb.png)
+![Linux](./icons/linux.png)
+![Adobe XD](./icons/adobexd.png)
 
-Linux
-MySQL
-
-#### Learning:
+#### Learning/playing with:
 
 ![TypeScript](./icons/typescript.png)
-Docker
+![Nuxt.js](./icons/nuxt.png)
+![Docker](./icons/docker.png)
 
-#### Previously worked with:
+#### Previously worked/played with:
 
-PHP
-Ruby
+![PHP](./icons/php.png)
+![Ruby](./icons/ruby.png)
 
 ### Useful Links
 
