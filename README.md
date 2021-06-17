@@ -1,6 +1,6 @@
 ## 👋 Hi I'm Mads
 
-I am a frontend/fullstack developer living in Odense, Denmark.
+I am a software developer living in Odense, Denmark.
 
 Currently working @ [cavea.io](https://cavea.io). Work account: [@MadsCavea](https://github.com/MadsCavea)
 
