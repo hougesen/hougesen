@@ -39,3 +39,7 @@ My current side-project is a fitness tracker called [Strongr](https://stron.gr).
 [![Behance Badge](https://img.shields.io/badge/-Behance-282C34?style=for-the-badge&logo=Behance&logoColor=1769ff&link=https://www.behance.net/MadsHougesen/)](https://www.behance.net/MadsHougesen/) &nbsp;
 
 <!-- * [CodeWars](https://www.codewars.com/users/Hougesen) // [LeetCode](https://leetcode.com/hougesen/) -->
+
+### This week I have been doing:
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
