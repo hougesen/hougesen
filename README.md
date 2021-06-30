@@ -25,10 +25,10 @@ My current side-project is a fitness tracker called [Strongr](https://stron.gr).
 <img src="https://img.shields.io/badge/Strapi-282C34?logo=Strapi&style=for-the-badge&logoColor=8c4bff&link=https://github.com/Hougesen?tab=repositories&q=strapi&type=&language=&sort=" alt="Strapi logo" title="Strapi" height="28" /> &nbsp;
 <img src="https://img.shields.io/badge/Docker-282C34?logo=docker&style=for-the-badge&link=https://github.com/Hougesen?tab=repositories&q=docker&type=&language=&sort=" alt="Docker logo" title="Docker" height="28" /> &nbsp;
 
-#### Previously worked/played with:
-
+<!-- #### Previously worked/played with:
 <img src="https://img.shields.io/badge/PHP-282C34?logo=php&style=for-the-badge&link=https://github.com/Hougesen?tab=repositories&q=&type=&language=php&sort=" alt="PHP logo" title="PHP" height="28" /> &nbsp;
 <img src="https://img.shields.io/badge/Ruby-282C34?logo=ruby&style=for-the-badge&logoColor=cc342d&link=https://github.com/Hougesen?tab=repositories&q=&type=&language=ruby&sort=" alt="Ruby logo" title="Ruby" height="28" /> &nbsp;
+ -->
 
 ### Useful Links
 
@@ -41,12 +41,6 @@ My current side-project is a fitness tracker called [Strongr](https://stron.gr).
 <!-- * [CodeWars](https://www.codewars.com/users/Hougesen) // [LeetCode](https://leetcode.com/hougesen/) -->
 
 ### This week I have been doing:
+
 <!--START_SECTION:waka-->
-```text
-JavaScript   7 hrs 21 mins   ██████████▒░░░░░░░░░░░░░░   40.73 % 
-TypeScript   3 hrs 5 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.08 % 
-HTML         2 hrs 44 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-Vue.js       2 hrs 37 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-JSON         1 hr 15 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
-```
 <!--END_SECTION:waka-->
