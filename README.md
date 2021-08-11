@@ -44,10 +44,10 @@ My current side-project is a fitness tracker called [Strongr](https://stron.gr).
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   17 hrs 35 mins  ███████████░░░░░░░░░░░░░░   44.23 % 
-Vue.js       16 hrs 37 mins  ██████████▒░░░░░░░░░░░░░░   41.81 % 
-JSON         3 hrs 44 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
-TypeScript   40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
-Markdown     18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+JavaScript   17 hrs 39 mins  ███████████▒░░░░░░░░░░░░░   45.86 % 
+Vue.js       13 hrs 54 mins  █████████░░░░░░░░░░░░░░░░   36.11 % 
+JSON         3 hrs 31 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+TypeScript   1 hr 56 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+Markdown     29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
 ```
 <!--END_SECTION:waka-->
