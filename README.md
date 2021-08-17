@@ -2,7 +2,7 @@
 
 I am a software developer living in Odense, Denmark.
 
-Currently working @ [cavea.io](https://cavea.io). Work account: [@MadsCavea](https://github.com/MadsCavea)
+Currently working @ [cavea.io](https://cavea.io). Work account: [@MadsCavea](https://github.com/MadsCavea) (I do most of my work related stuff on [Gitlab](https://gitlab.com/Hougesen) though)
 
 My current side-project is a fitness tracker called [Strongr](https://stron.gr). Made with Nuxt.js, Express & MySQL.
 
