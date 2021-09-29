@@ -12,7 +12,7 @@ My current side-project is a fitness tracker called [Strongr](https://stron.gr).
 
 <img src="https://img.shields.io/badge/Vue.js-282C34?logo=vuedotjs&style=for-the-badge&link=https://github.com/Hougesen?tab=repositories&q=&type=&language=vue&sort=" alt="Vue.js logo" title="Vue.js" height="28" />  
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&style=for-the-badge&link=https://github.com/Hougesen?tab=repositories&q=&type=&language=javascript&sort=" alt="JavaScript logo" title="JavaScript" height="28" />  
-<img src="https://img.shields.io/badge/Node.js-282C34?logo=node-dot-js&style=for-the-badge&link=https://github.com/Hougesen?tab=repositories&q=&type=&language=javascript&sort=" alt="Node.js logo" title="Node.js" height="28" />  
+<img src="https://img.shields.io/badge/Node.js-282C34?logo=nodedotjs&style=for-the-badge&link=https://github.com/Hougesen?tab=repositories&q=&type=&language=javascript&sort=" alt="Node.js logo" title="Node.js" height="28" />  
 <img src="https://img.shields.io/badge/Express-282C34?logo=express&style=for-the-badge&link=https://github.com/Hougesen?tab=repositories&q=&type=&language=javascript&sort=" alt="Express.js logo" title="Express.js" height="28" />  
 <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&style=for-the-badge&link=https://github.com/Hougesen?tab=repositories&q=mongodb&type=&language=&sort=" alt="MongoDB logo" title="MongoDB" height="28" />  
 <img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&style=for-the-badge&logoColor=white&link=https://github.com/Hougesen?tab=repositories&q=mysql&type=&language=&sort=" alt="MySQL logo" title="MySQL" height="28" />  
@@ -21,8 +21,9 @@ My current side-project is a fitness tracker called [Strongr](https://stron.gr).
 #### Learning/playing with:
 
 <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&style=for-the-badge&link=https://github.com/Hougesen?tab=repositories&q=typescript&type=&language=&sort=" alt="TypeScript logo" title="TypeScript" height="28" />  
-<img src="https://img.shields.io/badge/Nuxt.js-282C34?logo=nuxt-dot-js&style=for-the-badge&link=https://github.com/Hougesen?tab=repositories&q=nuxt&type=&language=&sort=" alt="Nuxt.js logo" title="Nuxt.js" height="28" />  
-<img src="https://img.shields.io/badge/Strapi-282C34?logo=Strapi&style=for-the-badge&logoColor=8c4bff&link=https://github.com/Hougesen?tab=repositories&q=strapi&type=&language=&sort=" alt="Strapi logo" title="Strapi" height="28" />  
+<img src="https://img.shields.io/badge/Python-282C34?logo=Python&style=for-the-badge&logoColor=3776AB&link=https://github.com/Hougesen?tab=repositories&q=python&type=&language=&sort=" alt="Python logo" title="Python" height="28" />  
+<img src="https://img.shields.io/badge/CSharp-282C34?logo=csharp&style=for-the-badge&logoColor=239120&link=https://github.com/Hougesen?tab=repositories&q=csharp&type=&language=&sort=" alt="C Sharp logo" title="C#" height="28" />  
+<img src="https://img.shields.io/badge/Nuxt.js-282C34?logo=nuxtdotjs&style=for-the-badge&link=https://github.com/Hougesen?tab=repositories&q=nuxt&type=&language=&sort=" alt="Nuxt.js logo" title="Nuxt.js" height="28" />  
 <img src="https://img.shields.io/badge/Docker-282C34?logo=docker&style=for-the-badge&link=https://github.com/Hougesen?tab=repositories&q=docker&type=&language=&sort=" alt="Docker logo" title="Docker" height="28" />  
 
 ### Useful Links
@@ -36,11 +37,4 @@ My current side-project is a fitness tracker called [Strongr](https://stron.gr).
 ### This week I have been doing:
 
 <!--START_SECTION:waka-->
-```text
-Vue.js       10 hrs 48 mins  ███████████▒░░░░░░░░░░░░░   44.79 % 
-JavaScript   5 hrs 58 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.78 % 
-Python       4 hrs 11 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.35 % 
-Other        42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-Text         37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
-```
 <!--END_SECTION:waka-->
