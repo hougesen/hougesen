@@ -40,11 +40,11 @@ My current side-project is a fitness tracker called [Strongr](https://stron.gr).
 ```text
 Week: 04 October, 2021 - 10 October, 2021
 
-JavaScript   14 hrs 2 mins   ████████▓░░░░░░░░░░░░░░░░   34.45 % 
-Vue.js       11 hrs 40 mins  ███████░░░░░░░░░░░░░░░░░░   28.64 % 
-C#           3 hrs 58 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
-Markdown     2 hrs 7 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
-Other        2 hrs           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+JavaScript   14 hrs 2 mins   ████████▓░░░░░░░░░░░░░░░░   34.38 % 
+Vue.js       11 hrs 40 mins  ███████░░░░░░░░░░░░░░░░░░   28.58 % 
+C#           3 hrs 58 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
+Markdown     2 hrs 7 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+Other        2 hrs           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
 ```
 <!--END_SECTION:waka-->
  
