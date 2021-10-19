@@ -37,4 +37,13 @@ My current side-project is a fitness tracker called [Strongr](https://stron.gr).
 ### This week I have been doing:
 
 <!--START_SECTION:waka-->
+```text
+Week: 12 October, 2021 - 18 October, 2021
+
+JavaScript   12 hrs 25 mins  ████████████░░░░░░░░░░░░░   48.66 % 
+Vue.js       8 hrs 2 mins    ████████░░░░░░░░░░░░░░░░░   31.46 % 
+JSON         2 hrs 7 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+SQL          1 hr 30 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Markdown     43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+```
 <!--END_SECTION:waka-->
