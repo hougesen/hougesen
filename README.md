@@ -37,15 +37,4 @@ My current side-project is a fitness tracker called [Strongr](https://stron.gr).
 ### This week I have been doing:
 
 <!--START_SECTION:waka-->
-```text
-Week: 26 October, 2021 - 01 November, 2021
-
-Rust         10 hrs 53 mins  ███████▓░░░░░░░░░░░░░░░░░   30.66 % 
-Vue.js       10 hrs 45 mins  ███████▓░░░░░░░░░░░░░░░░░   30.29 % 
-JavaScript   9 hrs 27 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.63 % 
-JSON         1 hr            ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
-SQL          51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
-```
 <!--END_SECTION:waka-->
-
-[![Visits Badge](https://badges.pufler.dev/visits/hougesen/hougesen)](https://badges.pufler.dev)
