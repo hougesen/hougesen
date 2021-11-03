@@ -38,7 +38,7 @@ My current side-project is a fitness tracker called [Strongr](https://stron.gr).
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 October, 2021 - 01 November, 2021
+Week: 27 October, 2021 - 02 November, 2021
 
 Rust         13 hrs 14 mins  █████████▓░░░░░░░░░░░░░░░   38.77 % 
 Vue.js       9 hrs 42 mins   ███████░░░░░░░░░░░░░░░░░░   28.43 % 
