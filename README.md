@@ -19,7 +19,7 @@ My current side-project is a fitness tracker called [Strongr](https://stron.gr).
 <img src="https://img.shields.io/badge/Linux-282C34?logo=linux&style=for-the-badge&logoColor=white&link=https://github.com/Hougesen?tab=repositories&q=linux&type=&language=&sort=" alt="Linux logo" title="Linux" height="28" />  
 
 #### Learning/playing with:
-
+<img src="https://img.shields.io/badge/Rust-282C34?logo=rust&style=for-the-badge&link=https://github.com/Hougesen?tab=repositories&q=typescript&type=&language=&sort=" alt="TypeScript logo" title="TypeScript" height="28" />  
 <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&style=for-the-badge&link=https://github.com/Hougesen?tab=repositories&q=typescript&type=&language=&sort=" alt="TypeScript logo" title="TypeScript" height="28" />  
 <img src="https://img.shields.io/badge/Python-282C34?logo=Python&style=for-the-badge&logoColor=3776AB&link=https://github.com/Hougesen?tab=repositories&q=python&type=&language=&sort=" alt="Python logo" title="Python" height="28" />  
 <img src="https://img.shields.io/badge/CSharp-282C34?logo=csharp&style=for-the-badge&logoColor=239120&link=https://github.com/Hougesen?tab=repositories&q=csharp&type=&language=&sort=" alt="C Sharp logo" title="C#" height="28" />  
