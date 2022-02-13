@@ -38,7 +38,7 @@ My current side-project is a fitness tracker called [Strongr](https://stron.gr).
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 February, 2022 - 11 February, 2022
+Week: 06 February, 2022 - 12 February, 2022
 
 TypeScript   7 hrs 45 mins   ██████████▒░░░░░░░░░░░░░░   41.02 % 
 Rust         7 hrs 33 mins   ██████████░░░░░░░░░░░░░░░   39.95 % 
