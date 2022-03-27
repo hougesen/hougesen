@@ -39,7 +39,7 @@ My current side-project is a fitness tracker called [Strongr](https://stron.gr).
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 March 2022 - To: 25 March 2022
+From: 19 March 2022 - To: 26 March 2022
 
 Python       6 hrs 40 mins   ███████▓░░░░░░░░░░░░░░░░░   30.58 %
 Rust         4 hrs 29 mins   █████░░░░░░░░░░░░░░░░░░░░   20.56 %
