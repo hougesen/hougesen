@@ -35,14 +35,14 @@ My current side-project is a fitness tracker called [Strongr](https://stron.gr).
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 June 2022 - To: 08 June 2022
+From: 02 June 2022 - To: 09 June 2022
 
-TypeScript   3 hrs 14 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.48 %
-Python       2 hrs 45 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.64 %
-Docker       1 hr 33 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.28 %
-JavaScript   1 hr 29 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.75 %
-Vue.js       1 hr 14 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.75 %
-YAML         1 hr 3 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 %
+Python       3 hrs 54 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.17 %
+TypeScript   3 hrs 37 mins   ██████░░░░░░░░░░░░░░░░░░░   23.37 %
+JavaScript   2 hrs 41 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.39 %
+Docker       1 hr 34 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.14 %
+Vue.js       1 hr 15 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 %
+YAML         1 hr 3 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 %
 ```
 
 <!--END_SECTION:waka-->
