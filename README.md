@@ -4,8 +4,6 @@ I am a software developer living in Odense, Denmark.
 
 Currently working @ [cavea.io](https://cavea.io) (I do most of my work related stuff on [Gitlab](https://gitlab.com/Hougesen) though).
 
-My current side-project is a fitness tracker called [Strongr](https://stron.gr). Made using Nuxt (TypeScript), Node/Express & MongoDB.
-
 ### Technologies
 <img src="https://img.shields.io/badge/Rust-282C34?logo=rust&style=for-the-badge&link=https://github.com/Hougesen?tab=repositories&q=typescript&type=&language=&sort=" alt="Rust logo" title="Rust" height="28" />  
 <img src="https://img.shields.io/badge/Python-282C34?logo=Python&style=for-the-badge&logoColor=3776AB&link=https://github.com/Hougesen?tab=repositories&q=python&type=&language=&sort=" alt="Python logo" title="Python" height="28" />  
