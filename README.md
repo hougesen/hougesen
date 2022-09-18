@@ -33,7 +33,7 @@ Currently working @ [cavea.io](https://cavea.io) (I do most of my work related s
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 September 2022 - To: 16 September 2022
+From: 10 September 2022 - To: 17 September 2022
 
 Vue.js                       ███████▓░░░░░░░░░░░░░░░░░   30.53 %
 TypeScript                   ██████▓░░░░░░░░░░░░░░░░░░   26.74 %
