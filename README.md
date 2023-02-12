@@ -33,14 +33,14 @@ Currently working @ [cavea.io](https://cavea.io) (I do most of my work related s
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 February 2023 - To: 10 February 2023
+From: 04 February 2023 - To: 11 February 2023
 
-TypeScript                    ████████░░░░░░░░░░░░░░░░░   32.30 %
-Vue.js                        ████████░░░░░░░░░░░░░░░░░   31.81 %
-Go                            ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 %
-Rust                          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
-Python                        █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
-JavaScript                    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+Vue.js                        ████████▒░░░░░░░░░░░░░░░░   33.57 %
+TypeScript                    ████████░░░░░░░░░░░░░░░░░   32.31 %
+Go                            ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 %
+Rust                          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
+Python                        █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
+JavaScript                    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
 ```
 
 <!--END_SECTION:waka-->
