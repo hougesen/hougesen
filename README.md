@@ -35,7 +35,7 @@ I work @ [cavea.io](https://cavea.io?utm_source=github_hougesen) where I spend m
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 July 2023 - To: 23 July 2023
+From: 17 July 2023 - To: 24 July 2023
 
 TypeScript                   ██████████████████▒░░░░░░   73.09 %
 Vue.js                       ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 %
