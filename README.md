@@ -35,7 +35,7 @@ I work @ [cavea.io](https://cavea.io?utm_source=github_hougesen) where I spend m
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 April 2025 - To: 29 April 2025
+From: 23 April 2025 - To: 30 April 2025
 
 Rust                         ████▓░░░░░░░░░░░░░░░░░░░░   18.24 %
 TypeScript                   ████▒░░░░░░░░░░░░░░░░░░░░   16.90 %
