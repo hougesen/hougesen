@@ -35,7 +35,7 @@ I work @ [cavea.io](https://cavea.io?utm_source=github_hougesen) where I spend m
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 July 2025 - To: 19 July 2025
+From: 13 July 2025 - To: 20 July 2025
 
 Ruby                         █████████▒░░░░░░░░░░░░░░░   37.10 %
 Markdown                     ███░░░░░░░░░░░░░░░░░░░░░░   12.49 %
