@@ -35,13 +35,13 @@ I work @ [cavea.io](https://cavea.io?utm_source=github_hougesen) where I spend m
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 September 2025 - To: 24 September 2025
+From: 18 September 2025 - To: 25 September 2025
 
-Ruby                         ███████████████████▒░░░░░   77.78 %
-Markdown                     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
-JSON                         █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
-YAML                         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
-Bash                         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+Ruby                         ████████████████████░░░░░   79.47 %
+Markdown                     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
+YAML                         █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
+JSON                         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
+Bash                         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
 ```
 
 <!--END_SECTION:waka-->
