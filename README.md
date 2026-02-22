@@ -1,12 +1,14 @@
 ## 👋 Hi I'm Mads
 
-I am a software developer from Denmark. Lover of all things programming. Currently into Rust, Python and TypeScript.
+I am a software developer from Denmark. Lover of all things programming. Currently into Rust, Ruby and TypeScript.
 
-I work @ [cavea.io](https://cavea.io?utm_source=github_hougesen) where I spend most of my time building tools for live streamers. Some projects I've worked on include:
+I work @ [Shipmondo](https://shipmondo.com) where I help maintain integrations to various e-commerce platforms.
 
--   A tool for automatically [capturing highlights in livestreams](https://capturelab.gg/?utm_source=github_hougesen)
--   A platform for running [influencer campaigns](https://adlab.gg?utm_source=github_hougesen) on Twitch
--   Dozens of systems for tracking social media performance
+I previously worked [cavea.io](https://cavea.io?utm_source=github_hougesen) where I spent most of my time building tools for live streamers. Some projects I've worked on include:
+
+-   A tool for automatically capturing highlights in livestreams.
+-   A platform for running [influencer campaigns](https://adlab.gg?utm_source=github_hougesen) on Twitch.
+-   Dozens of systems for tracking social media performance.
 
 ### Technologies
 
