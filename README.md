@@ -37,7 +37,7 @@ I previously worked [cavea.io](https://cavea.io?utm_source=github_hougesen) wher
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 July 2026 - To: 08 July 2026
+From: 02 July 2026 - To: 09 July 2026
 
 Ruby                                █████████████░░░░░░░░░░░░   52.22 %
 Rust                                ███████▓░░░░░░░░░░░░░░░░░   30.71 %
