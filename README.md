@@ -37,13 +37,13 @@ I previously worked [cavea.io](https://cavea.io?utm_source=github_hougesen) wher
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 August 2026 - To: 23 August 2026
+From: 17 August 2026 - To: 24 August 2026
 
-Ruby                                    ███████████████▓░░░░░░░░░   62.21 %
-Rust                                    ███▒░░░░░░░░░░░░░░░░░░░░░   12.90 %
-Vue                                     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 %
-TypeScript                              ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
-JSON                                    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
+Ruby                                    ███████████████▓░░░░░░░░░   62.53 %
+Rust                                    ███░░░░░░░░░░░░░░░░░░░░░░   12.03 %
+Vue                                     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
+TypeScript                              █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
+JavaScript                              ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
 ```
 
 <!--END_SECTION:waka-->
